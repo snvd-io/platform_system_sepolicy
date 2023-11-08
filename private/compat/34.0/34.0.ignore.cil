@@ -12,6 +12,7 @@
     hal_authgraph_service
     vibrator_control_service
     hal_codec2_service
+    hal_macsec_service
     hal_threadnetwork_service
     virtual_camera_service
     ot_daemon_service
@@ -25,4 +26,5 @@
     next_boot_prop
     binderfs_logs_stats
     drm_forcel3_prop
+    proc_percpu_pagelist_high_fraction
   ))
