@@ -52,4 +52,5 @@
     aconfigd_socket
     enable_16k_pages_prop
     proc_cgroups
+    security_usb_mode_prop
   ))
