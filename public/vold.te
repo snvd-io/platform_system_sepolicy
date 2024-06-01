@@ -72,6 +72,7 @@ neverallowxperm {
 # tried first. Otherwise, FS_IOC_FIEMAP is needed to get the
 # location of the file's blocks on the raw block device to erase.
 allowxperm vold {
+  unencrypted_data_file
   vold_data_file
   vold_metadata_file
 }:file ioctl {
