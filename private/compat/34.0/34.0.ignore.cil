@@ -14,6 +14,7 @@
     snapuserd_log_data_file
     fwk_vibrator_control_service
     ecm_enhanced_confirmation_service
+    erase_secure_element_prop
     hal_authgraph_service
     hal_graphics_mapper_service
     hal_secretkeeper_service
