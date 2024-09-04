@@ -15,6 +15,4 @@
     supervision_service
     sysfs_udc
     app_function_service
-    virtual_fingerprint
-    virtual_fingerprint_exec
   ))
