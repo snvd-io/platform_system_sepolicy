@@ -10,6 +10,7 @@
     binderfs_logs_transactions
     binderfs_logs_transaction_history
     proc_cgroups
+    ranging_service
     supervision_service
     sysfs_udc
     app_function_service
